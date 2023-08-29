@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: #696969;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(1, 176, 1);
+}
+
+.telegram:hover {
+    color: rgb(3, 152, 232);
+}
+
+.instagram:hover {
+    color: rgb(249, 87, 171);
+}
+
+.avatar {
+    border-radius: 25px;
+    width: 200px;
+}
+
+.info {
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.info p {
+    color: #696969;
+}
+
+.info-text {
+    margin-left: 20px;
+}
+
+.info-text h4 {
+    margin-bottom: 10px;
+}
+
+.info-text p {
+    margin-top: 10px;
+}
+
+.card {
+    padding: 15px 20px; 
+    margin-bottom: 15px;
+    border-radius: 20px;
+}
+
+.bg-green {
+    background-color: #cbdac3;
+}
+
+.bg-yellow {
+    background-color: #d8d8be;
+}
+
+.bg-white {
+    background-color: #e7e7da;
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.list {
+    padding: 0 20px;
+}
+
+.list li {
+    margin-bottom: 10px;
+}
+
+.table {
+    width: 100%;
+}
+
+table td {
+    padding-bottom: 10px;
+}
+
+.list_work {
+    list-style: none;
+}
+
+.list_work li {
+    margin-bottom: 10px;
+}
+
+.numb {
+    margin-bottom: 5px;
+    margin-top: 30px;
+}
